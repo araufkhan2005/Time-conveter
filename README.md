@@ -15,7 +15,7 @@ Develop a C++ program using Object-Oriented Programming (OOP) to perform bidirec
 ### 💻 Output Screenshot
 
 > **Output screenshot can be added here as:**  
-> `output/time-converter-cpp.png`
+> `output/image.png`
 
 ---
 
